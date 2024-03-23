@@ -1,3 +1,6 @@
+# 42 Cursus
+This repository contains all the projects I have done during the 42 cursus.
+
 | Circle | Project                                                      | Tries | Result  |
 | ------ | ------------------------------------------------------------ | ----- | ------- |
 | 0      | [libft](https://github.com/flodolce92/libft)                 | 1     | 125/100 |
