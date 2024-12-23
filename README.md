@@ -11,3 +11,4 @@ This repository contains all the projects I have done during the 42 cursus.
 | 2      | [so_long](https://github.com/flodolce92/so_long)             | 1     | 125/100 |
 | 2      | [push_swap](https://github.com/flodolce92/push_swap)         | 1     |  96/100 |
 | 3      | [minishell](https://github.com/Ruy41321/42_Minishell)        | 1     | 101/100 |
+| 3      | [philosophers](https://github.com/flodolce92/philosophers)   | 1     | 108/100 |
