@@ -17,3 +17,11 @@ This repository contains all the projects I have done during the 42 cursus.
 | 4      | [cub3D](https://github.com/99shandhokhan88/cub-terzo)        | 1     | 115/100 |
 | 4      | NetPractice                                                  | 1     | 100/100 |
 | 4      | ExamRank 04                                                  | 1     | 100/100 |
+| 4      | [CPP Module 00](https://github.com/flodolce92/CPP-Modules)   | 2     | 100/100 |
+| 4      | [CPP Module 01](https://github.com/flodolce92/CPP-Modules)   | 1     | 100/100 |
+| 4      | [CPP Module 02](https://github.com/flodolce92/CPP-Modules)   | 1     | 100/100 |
+| 4      | [CPP Module 03](https://github.com/flodolce92/CPP-Modules)   | 1     | 100/100 |
+| 4      | [CPP Module 04](https://github.com/flodolce92/CPP-Modules)   | 2     | 100/100 |
+| 5      | ExamRank 05                                                  | 1     | 100/100 |
+| 5      | [CPP Module 05](https://github.com/flodolce92/CPP-Modules)   | 1     | 100/100 |
+| 5      | [CPP Module 06](https://github.com/flodolce92/CPP-Modules)   | 1     | 100/100 |
