@@ -25,6 +25,7 @@ This repository serves as a central hub for all the projects I completed through
 | 4      | ExamRank 04                                                     | 1     | 100/100  | -                                                           |
 | 4      | CPP Modules 00-04                                               | 1-2   | 100/100  | [View Repo](https://github.com/flodolce92/CPP-Modules)      |
 | 5      | ExamRank 05                                                     | 1     | 100/100  | -                                                           |
+| 5      | webserv                                                         | 1     | 100/100  | [View Repo](https://github.com/flodolce92/webserver-42)     |
 | 5      | CPP Modules 05-06                                               | 1     | 100/100  | [View Repo](https://github.com/flodolce92/CPP-Modules)      |
 
 ---
@@ -54,4 +55,5 @@ This repository serves as a central hub for all the projects I completed through
 
 - **CPP Modules 00-04**: A series of projects that introduce students to C++ programming, covering topics such as classes, inheritance, polymorphism, and templates.
 
+- **webserv**: A web server project that involves creating a simple HTTP non-blocking server capable of handling GET and POST requests, serving static files, and managing multiple clients.
 ---
