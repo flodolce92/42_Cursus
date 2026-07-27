@@ -7,30 +7,34 @@ This repository serves as a central hub for all the projects I completed through
 
 ## 📋 Project Overview
 
-| Circle | Project                                                         | Tries | Score    | Repo Link                                                   |
-|--------|-----------------------------------------------------------------|-------|----------|-------------------------------------------------------------|
-| 0      | Libft                                                           | 1     | 125/100  | [View Repo](https://github.com/flodolce92/libft)            |
-| 1      | ft_printf                                                       | 1     | 100/100  | [View Repo](https://github.com/flodolce92/ft_printf)        |
-| 1      | get_next_line                                                   | 1     | 125/100  | [View Repo](https://github.com/flodolce92/get_next_line)    |
-| 1      | Born2BeRoot                                                     | 1     | 110/100  | -                                                           |
-| 2      | ExamRank 02                                                     | 1     | 100/100  | -                                                           |
-| 2      | pipex                                                           | 1     | 125/100  | [View Repo](https://github.com/flodolce92/pipex)            |
-| 2      | so_long                                                         | 1     | 125/100  | [View Repo](https://github.com/flodolce92/so_long)          |
-| 2      | push_swap                                                       | 1     | 96/100   | [View Repo](https://github.com/flodolce92/push_swap)        |
-| 3      | minishell                                                       | 1     | 101/100  | [View Repo](https://github.com/Ruy41321/42_Minishell)       |
-| 3      | philosophers                                                    | 1     | 108/100  | [View Repo](https://github.com/flodolce92/philosophers)     |
-| 3      | ExamRank 03                                                     | 1     | 100/100  | -                                                           |
-| 4      | cub3D                                                           | 1     | 115/100  | [View Repo](https://github.com/99shandhokhan88/cub-terzo)   |
-| 4      | NetPractice                                                     | 1     | 100/100  | -                                                           |
-| 4      | ExamRank 04                                                     | 1     | 100/100  | -                                                           |
-| 4      | CPP Modules 00-04                                               | 1-2   | 100/100  | [View Repo](https://github.com/flodolce92/CPP-Modules)      |
-| 5      | ExamRank 05                                                     | 1     | 100/100  | -                                                           |
-| 5      | webserv                                                         | 1     | 100/100  | [View Repo](https://github.com/flodolce92/webserver-42)     |
-| 5      | CPP Modules 05-06                                               | 1     | 100/100  | [View Repo](https://github.com/flodolce92/CPP-Modules)      |
+| Circle | Project           | Tries | Score   | Repo Link                                                 |
+| ------ | ----------------- | ----- | ------- | --------------------------------------------------------- |
+| 0      | Libft             | 1     | 125/100 | [View Repo](https://github.com/flodolce92/libft)          |
+| 1      | ft_printf         | 1     | 100/100 | [View Repo](https://github.com/flodolce92/ft_printf)      |
+| 1      | get_next_line     | 1     | 125/100 | [View Repo](https://github.com/flodolce92/get_next_line)  |
+| 1      | Born2BeRoot       | 1     | 110/100 | -                                                         |
+| 2      | ExamRank 02       | 1     | 100/100 | -                                                         |
+| 2      | pipex             | 1     | 125/100 | [View Repo](https://github.com/flodolce92/pipex)          |
+| 2      | so_long           | 1     | 125/100 | [View Repo](https://github.com/flodolce92/so_long)        |
+| 2      | push_swap         | 1     | 96/100  | [View Repo](https://github.com/flodolce92/push_swap)      |
+| 3      | minishell         | 1     | 101/100 | [View Repo](https://github.com/Ruy41321/42_Minishell)     |
+| 3      | philosophers      | 1     | 108/100 | [View Repo](https://github.com/flodolce92/philosophers)   |
+| 3      | ExamRank 03       | 1     | 100/100 | -                                                         |
+| 4      | cub3D             | 1     | 115/100 | [View Repo](https://github.com/99shandhokhan88/cub-terzo) |
+| 4      | NetPractice       | 1     | 100/100 | -                                                         |
+| 4      | ExamRank 04       | 1     | 100/100 | -                                                         |
+| 4      | CPP Modules 00-04 | 1-2   | 100/100 | [View Repo](https://github.com/flodolce92/CPP-Modules)    |
+| 5      | ExamRank 05       | 1     | 100/100 | -                                                         |
+| 5      | webserv           | 1     | 100/100 | [View Repo](https://github.com/flodolce92/webserver-42)   |
+| 5      | inception         | 1     | 125/100 | [View Repo](https://github.com/flodolce92/inception)      |
+| 5      | CPP Modules 05-09 | 1-2   | 100/100 | [View Repo](https://github.com/flodolce92/CPP-Modules)    |
+| 6      | ft_transcendence  | 1     | 125/100 | -                                                         |
+| 6      | ExamRank 06       | 1     | 100/100 | -                                                         |
 
 ---
 
 ## 📝 Project Descriptions
+
 - **Libft**: A custom C library that includes various utility functions, such as string manipulation, memory management, and more. This project is a fundamental building block for many other projects in the 42 curriculum.
 
 - **ft_printf**: A custom implementation of the printf function in C, which formats and prints data to the standard output. This project helps students understand variadic functions and format specifiers.
@@ -56,4 +60,9 @@ This repository serves as a central hub for all the projects I completed through
 - **CPP Modules 00-04**: A series of projects that introduce students to C++ programming, covering topics such as classes, inheritance, polymorphism, and templates.
 
 - **webserv**: A web server project that involves creating a simple HTTP non-blocking server capable of handling GET and POST requests, serving static files, and managing multiple clients.
+
+- **inception**: A project that involves setting up a microservices architecture using Docker, Docker Compose, and Nginx. Students learn about containerization, service orchestration, and web server configuration.
+
+- **ft_transcendence**: A multiplayer game project that involves creating a real-time game using web technologies. Students learn about WebSockets, client-server communication, and game logic implementation.
+
 ---
